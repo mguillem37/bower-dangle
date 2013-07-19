@@ -1,0 +1,7 @@
+{
+  "name": "dangle",
+  "version": "1.0.0",
+  "main": "./dangle.js",
+  "dependencies": {
+  }
+}
